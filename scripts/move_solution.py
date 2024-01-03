@@ -41,12 +41,24 @@ def update_readme():
         f.write("| Problem | Difficulty | Language |\n")
         f.write("| ------- | ---------- | -------- |\n")
         for lang_dir in [C99_DIR, CPP_DIR]:
+            language = 'C' if 'C99' in str(lang_dir) else 'Cpp'
             for difficulty_dir in lang_dir.iterdir():
+                difficulty = difficulty_dir.stem.split('_')[1]  # Extract difficulty from folder name
                 for problem_dir in difficulty_dir.iterdir():
+                    problem_name = problem_dir.stem  # Extract problem name from folder name
                     if (problem_dir / 'info.json').exists():
+                        # Load info from the existing info.json file
                         with open(problem_dir / 'info.json') as info_file:
                             info = json.load(info_file)
-                            f.write(f"| [{info['name']}]({problem_dir}) | {info['difficulty']} | {info['language']} |\n")
+                    else:
+                        # Create a new info dictionary if info.json does not exist
+                        info = {
+                            'name': problem_name,
+                            'difficulty': difficulty,
+                            'language': language
+                        }
+                    # Write the problem information to the README
+                    f.write(f"| [{info['name']}]({problem_dir}) | {info['difficulty']} | {info['language']} |\n")
 
 if __name__ == "__main__":
     move_new_problems()
