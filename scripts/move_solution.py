@@ -38,18 +38,26 @@ def update_readme():
         f.write("# Kattis Solutions\n")
         f.write("Solutions to the [Kattis archives](https://open.kattis.com/).\n\n")
         f.write("## Problems\n")
-        f.write("| Problem | Difficulty | Language |\n")
-        f.write("| ------- | ---------- | -------- |\n")
+        f.write("| Problem | Difficulty | Language | Solution |\n")
+        f.write("| ------- | ---------- | -------- | -------- |\n")
         for lang_dir in [C99_DIR, CPP_DIR]:
             language = 'C' if 'C99' in str(lang_dir) else 'Cpp'
             for difficulty_dir in lang_dir.iterdir():
                 difficulty = difficulty_dir.stem.split('_')[1]  # Extract difficulty from folder name
                 for problem_dir in difficulty_dir.iterdir():
                     problem_name = problem_dir.stem  # Extract problem name from folder name
+                    if problem_name == '.gitkeep':
+                        continue  # Skip .gitkeep files
+
+                    # The GitHub URL to the solution file
+                    github_solution_url = f"https://github.com/YourGitHubUsername/YourRepoName/tree/main/Kattis/{lang_dir.name}/{difficulty_dir.name}/{problem_name}"
+
                     # The Kattis problem URL should match the problem name in lowercase
-                    kattis_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
+                    kattis_problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
+
                     # Write the markdown link to the README
-                    f.write(f"| [{problem_name}]({kattis_url}) | {difficulty} | {language} |\n")
+                    f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty} | {language} | [Solution]({github_solution_url}) |\n")
+
 
 
 if __name__ == "__main__":
