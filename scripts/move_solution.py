@@ -46,15 +46,14 @@ def update_readme():
         f.write("| ------- | ---------- | -------- | -------- |\n")
         
         for lang_dir, language in [(C_DIR, 'C'), (CPP_DIR, 'C++')]:
-            language_display = 'C++' if language == 'C++' else 'C'
             for difficulty_dir in sorted(lang_dir.iterdir()):
-                difficulty = '1_Easy' if 'Easy' in difficulty_dir.stem else '2_Medium' if 'Medium' in difficulty_dir.stem else '3_Hard'
+                difficulty_display = difficulty_dir.stem.replace('1_', '').replace('2_', '').replace('3_', '')
                 for file in sorted(difficulty_dir.glob('*.*')):
                     if file.is_file() and not file.name.startswith('.gitkeep'):
                         problem_name = file.stem
-                        github_solution_url = f"https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/{lang_dir.name}/{difficulty}/{file.name}"
+                        github_solution_url = f"https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/{lang_dir.name}/{difficulty_dir.stem}/{file.name}"
                         kattis_problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
-                        f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty} | {language_display} | [Solution]({github_solution_url}) |\n")
+                        f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty_display} | {language} | [Solution]({github_solution_url}) |\n")
 
 if __name__ == "__main__":
     move_new_problems()
