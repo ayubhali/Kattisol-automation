@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 int main()
 {
     int arnar_parked;
@@ -12,7 +11,7 @@ int main()
 
     int sum = arnar_parked + hannes_parked;
 
-    cout << sum;
+    cout << sum << endl;
     
     return 0;
 }

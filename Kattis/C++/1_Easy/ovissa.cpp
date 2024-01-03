@@ -11,7 +11,7 @@ int main()
     
     length = strlen((str));
 
-    cout << length;
+    cout << length << endl;
 
     return 0;
 }

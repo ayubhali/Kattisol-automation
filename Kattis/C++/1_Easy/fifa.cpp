@@ -12,7 +12,7 @@ int main()
 
     int improvements = n/k;
 
-    cout << year + improvements;
+    cout << year + improvements << endl;
 
     return 0;
 }

@@ -7,7 +7,7 @@ int main()
 
     cin >> number;
 
-    cout << number - 1;
+    cout << number - 1 << endl;
 
     return 0;       
 }

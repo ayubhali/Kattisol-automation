@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int count;
     int upperbound = 1337;
     int lowerbound = 0;
