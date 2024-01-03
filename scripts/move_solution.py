@@ -41,23 +41,22 @@ def update_readme():
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
         for lang_dir, language in [(C_DIR, 'C'), (CPP_DIR, 'C++')]:
+            language_display = 'C++' if language == 'C++' else 'C'
             for difficulty_dir in lang_dir.iterdir():
                 difficulty = difficulty_dir.stem.split('_')[1]  # Extract difficulty from folder name
-                for problem_dir in difficulty_dir.iterdir():
-                    problem_name = problem_dir.stem  # Extract problem name from folder name
-                    if problem_name == '.gitkeep':
-                        continue  # Skip .gitkeep files
-                    
-                    # Construct the relative path for the solution file
-                    relative_path = Path(lang_dir.name) / difficulty_dir.name / problem_name
-                    # Assuming your GitHub repository structure mirrors your local directory structure
-                    github_solution_url = f"https://github.com/YourGitHubUsername/YourRepoName/blob/main/Kattis/{relative_path}/{problem_name}"
-
-                    # The Kattis problem URL should match the problem name in lowercase
-                    kattis_problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
-
-                    # Write the markdown link to the README
-                    f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty} | {language} | [Solution]({github_solution_url}) |\n")
+                for file in difficulty_dir.glob('*.*'):  # Use glob pattern to match all files with an extension
+                    if file.is_file() and not file.name.startswith('.gitkeep'):
+                        problem_name = file.stem
+                        # Correct the language directory name for URL
+                        lang_dir_name = 'C' if language == 'C' else 'C++'
+                        # Correct the difficulty directory name for URL
+                        difficulty_dir_name = difficulty_dir.stem
+                        # Construct the GitHub solution URL
+                        github_solution_url = f"https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/{lang_dir_name}/{difficulty_dir_name}/{file.name}"
+                        # Construct the Kattis problem URL
+                        kattis_problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
+                        # Write the markdown table row to the README
+                        f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty} | {language_display} | [Solution]({github_solution_url}) |\n")
 
 if __name__ == "__main__":
     move_new_problems()
