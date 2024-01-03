@@ -1,5 +1,6 @@
 # Kattis Solutions
-Solutions to the [Kattis archives](https://open.kattis.com/).
+
+This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems. 
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
