@@ -36,7 +36,7 @@ def move_new_problems():
 def update_readme():
     with open(README_FILE, 'w') as f:
         f.write("# Kattis Solutions\n")
-        f.write("Solutions to the Kattis problems.\n\n")
+        f.write("Solutions to the [Kattis archives](https://open.kattis.com/).\n\n")
         f.write("## Problems\n")
         f.write("| Problem | Difficulty | Language |\n")
         f.write("| ------- | ---------- | -------- |\n")
@@ -46,19 +46,11 @@ def update_readme():
                 difficulty = difficulty_dir.stem.split('_')[1]  # Extract difficulty from folder name
                 for problem_dir in difficulty_dir.iterdir():
                     problem_name = problem_dir.stem  # Extract problem name from folder name
-                    if (problem_dir / 'info.json').exists():
-                        # Load info from the existing info.json file
-                        with open(problem_dir / 'info.json') as info_file:
-                            info = json.load(info_file)
-                    else:
-                        # Create a new info dictionary if info.json does not exist
-                        info = {
-                            'name': problem_name,
-                            'difficulty': difficulty,
-                            'language': language
-                        }
-                    # Write the problem information to the README
-                    f.write(f"| [{info['name']}]({problem_dir}) | {info['difficulty']} | {info['language']} |\n")
+                    # The Kattis problem URL should match the problem name in lowercase
+                    kattis_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
+                    # Write the markdown link to the README
+                    f.write(f"| [{problem_name}]({kattis_url}) | {difficulty} | {language} |\n")
+
 
 if __name__ == "__main__":
     move_new_problems()
