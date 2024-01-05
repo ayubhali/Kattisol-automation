@@ -39,8 +39,8 @@ def move_new_problems():
 
 def update_readme():
     with open(README_FILE, 'w') as f:
-        f.write("# Kattis Solutions\n")
-        f.write("Solutions to the [Kattis archives](https://open.kattis.com/).\n\n")
+        f.write("# Kattis Solutions\n\n")
+        f.write("This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems. If a solution is wrong/incorrect or you would like to provide suggestions, please contact me on discord `plotsu`.\n\n")
         f.write("## Problems\n")
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")

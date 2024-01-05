@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems.If a solution is wrong/incorrect or would like to provide suggestions please contact me on discord ```plotsu```
+This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems. If a solution is wrong/incorrect or you would like to provide suggestions, please contact me on discord `plotsu`.
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
@@ -12,6 +12,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/aleidibio.cpp) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ameriskur.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
+| [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
 | [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/millifaersla.cpp) |
