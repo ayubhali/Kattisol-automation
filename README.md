@@ -14,6 +14,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
+| [knightpacking](https://open.kattis.com/problems/knightpacking) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/knightpacking.cpp) |
 | [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/millifaersla.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ofugsnuid.cpp) |
