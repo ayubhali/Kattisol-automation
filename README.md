@@ -26,5 +26,6 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
 | [reduplikation](https://open.kattis.com/problems/reduplikation) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reduplikation.cpp) |
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tolvunarfraedingartelja.cpp) |
+| [twostones](https://open.kattis.com/problems/twostones) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twostones.cpp) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/velkomin.cpp) |
 | [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/vidsnuningur.cpp) |
