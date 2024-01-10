@@ -21,6 +21,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
 | [metronome](https://open.kattis.com/problems/metronome) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/metronome.cpp) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/millifaersla.cpp) |
+| [oddecho](https://open.kattis.com/problems/oddecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/oddecho.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ofugsnuid.cpp) |
 | [ovissa](https://open.kattis.com/problems/ovissa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ovissa.cpp) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
