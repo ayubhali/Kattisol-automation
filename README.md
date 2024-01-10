@@ -11,6 +11,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/tolvunarfraedingartelja.c) |
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/aleidibio.cpp) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ameriskur.cpp) |
+| [autori](https://open.kattis.com/problems/autori) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/autori.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/cold.cpp) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
