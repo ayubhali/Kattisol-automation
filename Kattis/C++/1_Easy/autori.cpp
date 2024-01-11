@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main() {
+int main() {                    //Debt question
     string input, result;
     cin >> input;
 
