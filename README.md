@@ -9,6 +9,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [amiriskur](https://open.kattis.com/problems/amiriskur) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/amiriskur.c) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/fifa.c) |
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/tolvunarfraedingartelja.c) |
+| [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/addtwonumbers.cpp) |
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/aleidibio.cpp) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ameriskur.cpp) |
 | [autori](https://open.kattis.com/problems/autori) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/autori.cpp) |

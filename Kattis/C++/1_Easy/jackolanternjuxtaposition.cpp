@@ -3,18 +3,13 @@ using namespace std;
 
 int main()
 {   
-    int n, m = 1;
+    int eyes, nose, mouth;
 
-    cin >> n;
+    cin >> eyes >> nose >> mouth;
 
-    int arr[n];
+    int design = eyes * nose * mouth;
 
-    for (int i = 0; i < n; i++) {
-        cin >> arr[i];
-        m *=  arr[i];
-    }
-
-    cout << m;
+    cout << design;
 
     return 0;
 }
