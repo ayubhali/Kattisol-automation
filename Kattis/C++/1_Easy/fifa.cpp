@@ -10,7 +10,7 @@ int main()
     cin >> n;
     cin >> k;
 
-    int improvements = n/k;
+    int improvements = n / k;
 
     cout << year + improvements << endl;
 
