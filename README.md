@@ -17,6 +17,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
+| [fyi](https://open.kattis.com/problems/fyi) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fyi.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
 | [hradgreining](https://open.kattis.com/problems/hradgreining) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hradgreining.cpp) |
 | [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jackolanternjuxtaposition.cpp) |
@@ -27,6 +28,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [oddecho](https://open.kattis.com/problems/oddecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/oddecho.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ofugsnuid.cpp) |
 | [ovissa](https://open.kattis.com/problems/ovissa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ovissa.cpp) |
+| [qaly](https://open.kattis.com/problems/qaly) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/qaly.cpp) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
 | [reduplikation](https://open.kattis.com/problems/reduplikation) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reduplikation.cpp) |
 | [reversebinary](https://open.kattis.com/problems/reversebinary) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reversebinary.cpp) |
