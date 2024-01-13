@@ -13,6 +13,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/aleidibio.cpp) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ameriskur.cpp) |
 | [autori](https://open.kattis.com/problems/autori) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/autori.cpp) |
+| [bijele](https://open.kattis.com/problems/bijele) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/bijele.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/cold.cpp) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
@@ -21,6 +22,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
 | [hradgreining](https://open.kattis.com/problems/hradgreining) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hradgreining.cpp) |
 | [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jackolanternjuxtaposition.cpp) |
+| [jumbojavelin](https://open.kattis.com/problems/jumbojavelin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jumbojavelin.cpp) |
 | [knightpacking](https://open.kattis.com/problems/knightpacking) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/knightpacking.cpp) |
 | [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
 | [metronome](https://open.kattis.com/problems/metronome) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/metronome.cpp) |
