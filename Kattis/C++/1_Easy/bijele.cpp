@@ -13,11 +13,11 @@ int main()
     for (int i = 0; i < 6; i++) {
         cin >> input[i];
 
-        needed.push_back(pieceset[i] - input[i]); //take constants 
+        needed.push_back(pieceset[i] - input[i]); 
     }
 
-    for (int i = 0; i < 6; i++) {
-        cout << needed[i]  << " ";
+    for (int j = 0; j < 6; j++) {
+        cout << needed[j]  << " ";
     }
 
     return 0;

@@ -4,7 +4,6 @@ using namespace std;
 
 int main()
 {
-
     double footballfield = 0.09144;
     int num;
     double result;
