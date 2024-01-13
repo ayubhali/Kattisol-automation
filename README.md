@@ -1,38 +1,42 @@
 # Kattis Solutions
 
-This repository contains solutions to various programming problems from the Kattis problem archive, primarily focused on C++.
+This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems. If a solution is wrong/incorrect or you would like to provide suggestions, please contact me on discord `plotsu`.
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
 | ------- | ---------- | -------- | -------- |
-| [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/addtwonumbers.cpp) |
-| [aleidibio](https://open.kattis.com/problems/aleidibio) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/aleidibio.cpp) |
-| [ameriskur](https://open.kattis.com/problems/ameriskur) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/ameriskur.cpp) |
-| [autori](https://open.kattis.com/problems/autori) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/autori.cpp) |
-| [bijele](https://open.kattis.com/problems/bijele) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/bijele.cpp) |
-| [cold](https://open.kattis.com/problems/cold) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/cold.cpp) |
-| [echoechoecho](https://open.kattis.com/problems/echoechoecho) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/echoechoecho.cpp) |
-| [fifa](https://open.kattis.com/problems/fifa) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/fifa.cpp) |
-| [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/flatbokuveisla.cpp) |
-| [fyi](https://open.kattis.com/problems/fyi) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/fyi.cpp) |
-| [hello](https://open.kattis.com/problems/hello) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/hello.cpp) |
-| [hradgreining](https://open.kattis.com/problems/hradgreining) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/hradgreining.cpp) |
-| [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/jackolanternjuxtaposition.cpp) |
-| [jumbojavelin](https://open.kattis.com/problems/jumbojavelin) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/jumbojavelin.cpp) |
-| [knightpacking](https://open.kattis.com/problems/knightpacking) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/knightpacking.cpp) |
-| [leggjasaman](https://open.kattis.com/problems/leggjasaman) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/leggjasaman.cpp) |
-| [metronome](https://open.kattis.com/problems/metronome) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/metronome.cpp) |
-| [millifaersla](https://open.kattis.com/problems/millifaersla) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/millifaersla.cpp) |
-| [oddecho](https://open.kattis.com/problems/oddecho) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/oddecho.cpp) |
-| [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/ofugsnuid.cpp) |
-| [ovissa](https://open.kattis.com/problems/ovissa) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/ovissa.cpp) |
-| [qaly](https://open.kattis.com/problems/qaly) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/qaly.cpp) |
-| [quadrant](https://open.kattis.com/problems/quadrant) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/quadrant.cpp) |
-| [reduplikation](https://open.kattis.com/problems/reduplikation) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/reduplikation.cpp) |
-| [reversebinary](https://open.kattis.com/problems/reversebinary) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/reversebinary.cpp) |
-| [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/sorttwonumbers.cpp) |
-| [timeloop](https://open.kattis.com/problems/timeloop) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/timeloop.cpp) |
-| [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/tolvunarfraedingartelja.cpp) |
-| [twostones](https://open.kattis.com/problems/twostones) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/twostones.cpp) |
-| [velkomin](https://open.kattis.com/problems/velkomin) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/velkomin.cpp) |
-| [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | EasyEasy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/EasyEasy/vidsnuningur.cpp) |
+| [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/aleidibio.c) |
+| [amiriskur](https://open.kattis.com/problems/amiriskur) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/amiriskur.c) |
+| [fifa](https://open.kattis.com/problems/fifa) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/fifa.c) |
+| [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C/1_Easy/tolvunarfraedingartelja.c) |
+| [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/addtwonumbers.cpp) |
+| [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/aleidibio.cpp) |
+| [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ameriskur.cpp) |
+| [autori](https://open.kattis.com/problems/autori) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/autori.cpp) |
+| [bijele](https://open.kattis.com/problems/bijele) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/bijele.cpp) |
+| [cold](https://open.kattis.com/problems/cold) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/cold.cpp) |
+| [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
+| [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
+| [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
+| [fyi](https://open.kattis.com/problems/fyi) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fyi.cpp) |
+| [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
+| [hradgreining](https://open.kattis.com/problems/hradgreining) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hradgreining.cpp) |
+| [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jackolanternjuxtaposition.cpp) |
+| [jumbojavelin](https://open.kattis.com/problems/jumbojavelin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jumbojavelin.cpp) |
+| [knightpacking](https://open.kattis.com/problems/knightpacking) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/knightpacking.cpp) |
+| [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
+| [metronome](https://open.kattis.com/problems/metronome) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/metronome.cpp) |
+| [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/millifaersla.cpp) |
+| [oddecho](https://open.kattis.com/problems/oddecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/oddecho.cpp) |
+| [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ofugsnuid.cpp) |
+| [ovissa](https://open.kattis.com/problems/ovissa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ovissa.cpp) |
+| [qaly](https://open.kattis.com/problems/qaly) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/qaly.cpp) |
+| [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
+| [reduplikation](https://open.kattis.com/problems/reduplikation) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reduplikation.cpp) |
+| [reversebinary](https://open.kattis.com/problems/reversebinary) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reversebinary.cpp) |
+| [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sorttwonumbers.cpp) |
+| [timeloop](https://open.kattis.com/problems/timeloop) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/timeloop.cpp) |
+| [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tolvunarfraedingartelja.cpp) |
+| [twostones](https://open.kattis.com/problems/twostones) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twostones.cpp) |
+| [velkomin](https://open.kattis.com/problems/velkomin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/velkomin.cpp) |
+| [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/vidsnuningur.cpp) |
