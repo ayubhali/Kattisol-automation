@@ -11,6 +11,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [autori](https://open.kattis.com/problems/autori) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/autori.cpp) |
 | [bijele](https://open.kattis.com/problems/bijele) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/bijele.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/cold.cpp) |
+| [digitswap](https://open.kattis.com/problems/digitswap) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/digitswap.cpp) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
@@ -30,6 +31,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
 | [reduplikation](https://open.kattis.com/problems/reduplikation) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reduplikation.cpp) |
 | [reversebinary](https://open.kattis.com/problems/reversebinary) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reversebinary.cpp) |
+| [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sorttwonumbers.cpp) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/timeloop.cpp) |
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tolvunarfraedingartelja.cpp) |
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twostones.cpp) |

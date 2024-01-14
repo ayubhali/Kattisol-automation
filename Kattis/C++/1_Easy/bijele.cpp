@@ -12,7 +12,6 @@ int main()
 
     for (int i = 0; i < 6; i++) {
         cin >> input[i];
-
         needed.push_back(pieceset[i] - input[i]); 
     }
 
