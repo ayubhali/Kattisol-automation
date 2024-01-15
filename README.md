@@ -35,6 +35,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sorttwonumbers.cpp) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/timeloop.cpp) |
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tolvunarfraedingartelja.cpp) |
+| [triarea](https://open.kattis.com/problems/triarea) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/triarea.cpp) |
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twostones.cpp) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/velkomin.cpp) |
 | [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/vidsnuningur.cpp) |
