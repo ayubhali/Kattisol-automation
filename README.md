@@ -20,6 +20,7 @@ This repository shares solutions to Kattis problems in C++.It's a mix of challen
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/flatbokuveisla.cpp) |
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fyi.cpp) |
 | [gcvwr](https://open.kattis.com/problems/gcvwr) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/gcvwr.cpp) |
+| [grassseed](https://open.kattis.com/problems/grassseed) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/grassseed.cpp) |
 | [greetings2](https://open.kattis.com/problems/greetings2) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/greetings2.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hissingmicrophone.cpp) |
