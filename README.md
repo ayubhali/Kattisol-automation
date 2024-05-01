@@ -23,6 +23,7 @@ This repository shares solutions to Kattis problems in C++.It's a mix of challen
 | [grassseed](https://open.kattis.com/problems/grassseed) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/grassseed.cpp) |
 | [greetings2](https://open.kattis.com/problems/greetings2) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/greetings2.cpp) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hello.cpp) |
+| [hipphipp](https://open.kattis.com/problems/hipphipp) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hipphipp.cpp) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hissingmicrophone.cpp) |
 | [hradgreining](https://open.kattis.com/problems/hradgreining) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/hradgreining.cpp) |
 | [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/jackolanternjuxtaposition.cpp) |
