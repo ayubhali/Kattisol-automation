@@ -1,4 +1,5 @@
 import shutil
+import subprocess
 from pathlib import Path
 
 # Set the root directory to the parent of the current script's directory
@@ -13,20 +14,26 @@ README_FILE = ROOT_DIR / 'README.md'
 assert CPP_DIR.exists(), "Directory for C++ does not exist"
 
 def move_new_problems():
+    print("Checking and creating target directories...")
     # Ensure target directories exist
     for difficulty in ['1_Easy', '2_Medium', '3_Hard']:
-        (CPP_DIR / difficulty).mkdir(parents=True, exist_ok=True)
+        target_dir = CPP_DIR / difficulty
+        target_dir.mkdir(parents=True, exist_ok=True)
+        print(f"Directory ready: {target_dir}")
 
+    print("Moving new problem files to their respective directories...")
     # Move C++ problem files to their difficulty directory
     for problem_dir in NEW_PROBS_DIR.iterdir():
         if problem_dir.is_dir():
             for cpp_file in problem_dir.glob('*.cpp'):
                 difficulty = cpp_file.parent.name
                 target_dir = CPP_DIR / difficulty
+                print(f"Moving {cpp_file.name} to {target_dir}")
                 shutil.move(str(cpp_file), str(target_dir))
+    print("File move complete.")
 
 def update_readme():
-    # Updated README.md contents
+    print("Updating README.md file...")
     with open(README_FILE, 'w') as f:
         f.write("# Kattis Solutions\n\n")
         f.write("This repository shares solutions to Kattis problems in C++.")
@@ -46,7 +53,17 @@ def update_readme():
                     github_solution_url = f"https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/{difficulty_dir.stem}/{file.name}"
                     kattis_problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     f.write(f"| [{problem_name}]({kattis_problem_url}) | {difficulty} | C++ | [Solution]({github_solution_url}) |\n")
+    print("README.md updated.")
+
+def git_operations():
+    print("Starting git operations...")
+    subprocess.run(["git", "add", "."], check=True)
+    subprocess.run(["git", "commit", "-m", "Auto update of problem solutions"], check=True)
+    subprocess.run(["git", "push", "origin", "main"], check=True)
+    print("Git operations completed.")
 
 if __name__ == "__main__":
     move_new_problems()
     update_readme()
+    git_operations()
+

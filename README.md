@@ -1,6 +1,6 @@
 # Kattis Solutions
 
-This repository is where I share solutions to problems from [Kattis](https://open.kattis.com/) as I learn C++. It's a mix of challenge and fun, and I'm excited to see where this journey takes me. Updates will come as I solve more problems. If a solution is wrong/incorrect or you would like to provide suggestions, please contact me on discord `plotsu`.
+This repository shares solutions to Kattis problems in C++.It's a mix of challenge and fun. Updates will come as I solve more problems. For corrections or suggestions, please contact me on Discord `plotsu`.
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
@@ -31,6 +31,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [leggjasaman](https://open.kattis.com/problems/leggjasaman) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/leggjasaman.cpp) |
 | [metronome](https://open.kattis.com/problems/metronome) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/metronome.cpp) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/millifaersla.cpp) |
+| [monopol](https://open.kattis.com/problems/monopol) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/monopol.cpp) |
 | [nsum](https://open.kattis.com/problems/nsum) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/nsum.cpp) |
 | [oddecho](https://open.kattis.com/problems/oddecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/oddecho.cpp) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/ofugsnuid.cpp) |
@@ -39,6 +40,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/quadrant.cpp) |
 | [reduplikation](https://open.kattis.com/problems/reduplikation) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reduplikation.cpp) |
 | [reversebinary](https://open.kattis.com/problems/reversebinary) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/reversebinary.cpp) |
+| [sibice](https://open.kattis.com/problems/sibice) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sibice.cpp) |
 | [sith](https://open.kattis.com/problems/sith) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sith.cpp) |
 | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sorttwonumbers.cpp) |
 | [spritt](https://open.kattis.com/problems/spritt) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/spritt.cpp) |
@@ -48,6 +50,7 @@ This repository is where I share solutions to problems from [Kattis](https://ope
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twostones.cpp) |
 | [twosum](https://open.kattis.com/problems/twosum) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/twosum.cpp) |
 | [umferd](https://open.kattis.com/problems/umferd) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/umferd.cpp) |
+| [vedurheidar](https://open.kattis.com/problems/vedurheidar) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/vedurheidar.cpp) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/velkomin.cpp) |
 | [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/vidsnuningur.cpp) |
 | [whichisgreater](https://open.kattis.com/problems/whichisgreater) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/whichisgreater.cpp) |
