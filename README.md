@@ -46,6 +46,7 @@ This repository shares solutions to Kattis problems in C++.It's a mix of challen
 | [sith](https://open.kattis.com/problems/sith) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sith.cpp) |
 | [sorttwonumbers](https://open.kattis.com/problems/sorttwonumbers) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/sorttwonumbers.cpp) |
 | [spritt](https://open.kattis.com/problems/spritt) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/spritt.cpp) |
+| [tilhamingju](https://open.kattis.com/problems/tilhamingju) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tilhamingju.cpp) |
 | [timeloop](https://open.kattis.com/problems/timeloop) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/timeloop.cpp) |
 | [tolvunarfraedingartelja](https://open.kattis.com/problems/tolvunarfraedingartelja) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/tolvunarfraedingartelja.cpp) |
 | [triarea](https://open.kattis.com/problems/triarea) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/triarea.cpp) |
