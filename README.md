@@ -14,6 +14,7 @@ This repository shares solutions to Kattis problems in C++.It's a mix of challen
 | [bijele](https://open.kattis.com/problems/bijele) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/bijele.cpp) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/cold.cpp) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/digitswap.cpp) |
+| [dragafra](https://open.kattis.com/problems/dragafra) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/dragafra.cpp) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/echoechoecho.cpp) |
 | [fifa](https://open.kattis.com/problems/fifa) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/fifa.cpp) |
 | [findingana](https://open.kattis.com/problems/findingana) | Easy | C++ | [Solution](https://github.com/ImPlotting/Kattis-Solutions/blob/main/Kattis/C++/1_Easy/findingana.cpp) |
