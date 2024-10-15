@@ -2,27 +2,22 @@ import shutil
 import subprocess
 from pathlib import Path
 
-# Set the root directory to the parent of the current script's directory
 ROOT_DIR = Path(__file__).resolve().parent.parent
 
-# Define paths to directories and files
 CPP_DIR = ROOT_DIR / 'Kattis' / 'C++'
 NEW_PROBS_DIR = ROOT_DIR / 'new_probs'
 README_FILE = ROOT_DIR / 'README.md'
 
-# Ensure the C++ directory exists
 assert CPP_DIR.exists(), "Directory for C++ does not exist"
 
 def move_new_problems():
     print("Checking and creating target directories...")
-    # Ensure target directories exist
     for difficulty in ['1_Easy', '2_Medium', '3_Hard']:
         target_dir = CPP_DIR / difficulty
         target_dir.mkdir(parents=True, exist_ok=True)
         print(f"Directory ready: {target_dir}")
-
-    print("Moving new problem files to their respective directories...")
-    # Move C++ problem files to their difficulty directory
+        print("Moving new problem files to their respective directories...")
+        
     for problem_dir in NEW_PROBS_DIR.iterdir():
         if problem_dir.is_dir():
             for cpp_file in problem_dir.glob('*.cpp'):
@@ -44,7 +39,6 @@ def update_readme():
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
 
-        # Generate table entries for each problem
         for difficulty_dir in sorted(CPP_DIR.iterdir()):
             difficulty = difficulty_dir.stem.split('_')[1]
             for file in sorted(difficulty_dir.glob('*.cpp')):
