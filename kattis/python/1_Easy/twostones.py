@@ -1,5 +1,4 @@
 player1 = "Bob"
-
 player2 = "Alice"
 
 num = int(input())
