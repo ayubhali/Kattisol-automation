@@ -5,4 +5,4 @@ This repository shares solutions to Kattis problems in Python.
 ## Problems
 | Problem | Difficulty | Language | Solution |
 | ------- | ---------- | -------- | -------- |
-| [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ImPlotting/kattisol/blob/main/Kattis/Python/1_Easy/hello.py) |
+| [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ImPlotting/kattisol/blob/main/kattis/python/1_Easy/hello.py) |

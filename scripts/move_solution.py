@@ -3,7 +3,7 @@ import subprocess
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-PYTHON_DIR = ROOT_DIR / 'Kattis' / 'Python'
+PYTHON_DIR = ROOT_DIR / 'kattis' / 'python'  
 README_FILE = ROOT_DIR / 'README.md'
 
 def get_difficulty_label(folder_name: str) -> str:
@@ -21,7 +21,6 @@ def update_readme():
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
 
-        # Loop through subfolders like "1_Easy", "2_Medium", etc.
         for diff_dir in sorted(PYTHON_DIR.iterdir()):
             if diff_dir.is_dir():
                 diff_name = get_difficulty_label(diff_dir.name)
@@ -30,7 +29,7 @@ def update_readme():
                     problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     github_url = (
                         f"https://github.com/ImPlotting/kattisol/blob/main/"
-                        f"Kattis/Python/{diff_dir.name}/{py_file.name}"
+                        f"kattis/python/{diff_dir.name}/{py_file.name}"  # <-- path uses lowercase
                     )
                     f.write(
                         f"| [{problem_name}]({problem_url}) "
