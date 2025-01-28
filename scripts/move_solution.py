@@ -28,7 +28,7 @@ def update_readme():
                     problem_name = py_file.stem
                     problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     github_url = (
-                        f"https://github.com/ImPlotting/kattisol/blob/main/"
+                        f"https://github.com/ImPlotting/kattisol/"
                         f"kattis/python/{diff_dir.name}/{py_file.name}"  # <-- path uses lowercase
                     )
                     f.write(
