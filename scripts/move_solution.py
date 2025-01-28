@@ -1,9 +1,14 @@
+import re
 import subprocess
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 PYTHON_DIR = ROOT_DIR / 'Kattis' / 'Python'
 README_FILE = ROOT_DIR / 'README.md'
+
+def get_difficulty_label(folder_name: str) -> str:
+    match = re.match(r'^\d+_(.*)', folder_name)
+    return match.group(1) if match else folder_name
 
 def update_readme():
     if not PYTHON_DIR.exists():
@@ -16,10 +21,11 @@ def update_readme():
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
 
+        # Loop through subfolders like "1_Easy", "2_Medium", etc.
         for diff_dir in sorted(PYTHON_DIR.iterdir()):
             if diff_dir.is_dir():
-                diff_name = diff_dir.name.split('_', 1)[-1]
-                for py_file in sorted(diff_dir.glob('*.py')):
+                diff_name = get_difficulty_label(diff_dir.name)
+                for py_file in sorted(diff_dir.glob("*.py")):
                     problem_name = py_file.stem
                     problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     github_url = (
