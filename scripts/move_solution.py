@@ -55,7 +55,7 @@ def update_readme():
                     problem_name = py_file.stem
                     kattis_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     github_url = (
-                        f"https://github.com/ImPlotting/kattisol/blob/main/"
+                        f"https://github.com/ayubhali/kattisol/blob/main/"
                         f"kattis/python/{diff_dir.name}/{py_file.name}"
                     )
                     f.write(
