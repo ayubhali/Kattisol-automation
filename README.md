@@ -1,8 +1,7 @@
 # Kattis Solutions
 
-This repository shares solutions to Kattis problems in Python.
+This repository shares solutions to Kattis problems in Python. It's a mix of challenge and fun. Updates will come as I solve more problems. For corrections or suggestions, please contact me on Discord `plotsu`.
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
 | ------- | ---------- | -------- | -------- |
-| [hello](https://open.kattis.com/problems/hello) | 1_Easy | Python | [Solution](https://github.com/ImPlotting/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
