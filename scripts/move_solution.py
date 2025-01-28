@@ -3,7 +3,7 @@ import subprocess
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
-PYTHON_DIR = ROOT_DIR / 'kattis' / 'python'  
+PYTHON_DIR = ROOT_DIR / 'kattis' / 'python'
 README_FILE = ROOT_DIR / 'README.md'
 
 def get_difficulty_label(folder_name: str) -> str:
@@ -28,8 +28,8 @@ def update_readme():
                     problem_name = py_file.stem
                     problem_url = f"https://open.kattis.com/problems/{problem_name.lower()}"
                     github_url = (
-                        f"https://github.com/ImPlotting/kattisol/"
-                        f"kattis/python/{diff_dir.name}/{py_file.name}"  # <-- path uses lowercase
+                        f"https://github.com/ImPlotting/kattisol/blob/main/"
+                        f"kattis/python/{diff_dir.name}/{py_file.name}"
                     )
                     f.write(
                         f"| [{problem_name}]({problem_url}) "
