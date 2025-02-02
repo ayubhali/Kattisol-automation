@@ -13,4 +13,5 @@ This repository shares solutions to Kattis problems in Python.
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twostones.py) |
 | [twosum](https://open.kattis.com/problems/twosum) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twosum.py) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/velkomin.py) |
+| [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/vidsnuningur.py) |
 | [whichisgreater](https://open.kattis.com/problems/whichisgreater) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/whichisgreater.py) |
