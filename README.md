@@ -6,6 +6,7 @@ This repository shares solutions to Kattis problems in Python.
 | Problem | Difficulty | Language | Solution |
 | ------- | ---------- | -------- | -------- |
 | [autori](https://open.kattis.com/problems/autori) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/autori.py) |
+| [bijele](https://open.kattis.com/problems/bijele) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/bijele.py) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/cold.py) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/digitswap.py) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/echoechoecho.py) |
