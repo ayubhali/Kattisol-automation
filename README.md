@@ -8,6 +8,7 @@ This repository shares solutions to Kattis problems in Python.
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/addingtrouble.py) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ameriskur.py) |
 | [autori](https://open.kattis.com/problems/autori) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/autori.py) |
+| [betting](https://open.kattis.com/problems/betting) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/betting.py) |
 | [bijele](https://open.kattis.com/problems/bijele) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/bijele.py) |
 | [cold](https://open.kattis.com/problems/cold) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/cold.py) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/digitswap.py) |
