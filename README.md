@@ -13,6 +13,7 @@ This repository shares solutions to Kattis problems in Python.
 | [cold](https://open.kattis.com/problems/cold) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/cold.py) |
 | [digitswap](https://open.kattis.com/problems/digitswap) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/digitswap.py) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/echoechoecho.py) |
+| [findingana](https://open.kattis.com/problems/findingana) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/findingana.py) |
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fyi.py) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/quadrant.py) |
