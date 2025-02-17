@@ -17,6 +17,7 @@ This repository shares solutions to Kattis problems in Python.
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/quadrant.py) |
 | [sith](https://open.kattis.com/problems/sith) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/sith.py) |
+| [tilhamingju](https://open.kattis.com/problems/tilhamingju) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/tilhamingju.py) |
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twostones.py) |
 | [twosum](https://open.kattis.com/problems/twosum) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twosum.py) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/velkomin.py) |
