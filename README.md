@@ -15,6 +15,7 @@ This repository shares solutions to Kattis problems in Python.
 | [dragafra](https://open.kattis.com/problems/dragafra) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/dragafra.py) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/echoechoecho.py) |
 | [findingana](https://open.kattis.com/problems/findingana) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/findingana.py) |
+| [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/flatbokuveisla.py) |
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fyi.py) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/quadrant.py) |
