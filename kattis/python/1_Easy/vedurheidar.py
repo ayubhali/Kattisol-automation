@@ -6,17 +6,19 @@
 
 # print n lines for each road where is safe to travel 
 
+# Read the wind speed
 wind_speed = int(input())
 
+# Read the number of roads
 number_roads = int(input())
 
+# Loop through each road
 for _ in range(number_roads):
-  road_data = input().split()
-  road_name = road_data[0]
-  max_speed = road_data[1]
+    road_data = input().split()  # Read input and split into words
+    max_speed = int(road_data[-1])    # Convert last word to integer (safe wind speed)
+    road_name = " ".join(road_data[:-1])   # Join everything before last word as road name
 
-
-  if wind_speed > max_speed:
-    print(road_name, "lokud")
-  else:
-    print(road_name, "opin")
+    if wind_speed > max_speed:
+        print(road_name, "lokud")  
+    else:
+        print(road_name, "opin")  
