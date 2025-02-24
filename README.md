@@ -19,6 +19,7 @@ This repository shares solutions to Kattis problems in Python.
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fyi.py) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ofugsnuid.py) |
+| [ovissa](https://open.kattis.com/problems/ovissa) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ovissa.py) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/quadrant.py) |
 | [sith](https://open.kattis.com/problems/sith) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/sith.py) |
 | [tilhamingju](https://open.kattis.com/problems/tilhamingju) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/tilhamingju.py) |
