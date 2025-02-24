@@ -6,6 +6,7 @@ This repository shares solutions to Kattis problems in Python.
 | Problem | Difficulty | Language | Solution |
 | ------- | ---------- | -------- | -------- |
 | [addingtrouble](https://open.kattis.com/problems/addingtrouble) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/addingtrouble.py) |
+| [aleidibio](https://open.kattis.com/problems/aleidibio) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/aleidibio.py) |
 | [ameriskur](https://open.kattis.com/problems/ameriskur) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ameriskur.py) |
 | [autori](https://open.kattis.com/problems/autori) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/autori.py) |
 | [betting](https://open.kattis.com/problems/betting) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/betting.py) |
