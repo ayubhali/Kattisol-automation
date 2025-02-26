@@ -26,6 +26,7 @@ This repository shares solutions to Kattis problems in Python.
 | [tilhamingju](https://open.kattis.com/problems/tilhamingju) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/tilhamingju.py) |
 | [twostones](https://open.kattis.com/problems/twostones) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twostones.py) |
 | [twosum](https://open.kattis.com/problems/twosum) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/twosum.py) |
+| [umferd](https://open.kattis.com/problems/umferd) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/umferd.py) |
 | [vedurheidar](https://open.kattis.com/problems/vedurheidar) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/vedurheidar.py) |
 | [velkomin](https://open.kattis.com/problems/velkomin) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/velkomin.py) |
 | [vidsnuningur](https://open.kattis.com/problems/vidsnuningur) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/vidsnuningur.py) |
