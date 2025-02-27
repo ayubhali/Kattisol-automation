@@ -18,6 +18,7 @@ This repository shares solutions to Kattis problems in Python.
 | [findingana](https://open.kattis.com/problems/findingana) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/findingana.py) |
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/flatbokuveisla.py) |
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fyi.py) |
+| [greetings2](https://open.kattis.com/problems/greetings2) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/greetings2.py) |
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [hipphipp](https://open.kattis.com/problems/hipphipp) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hipphipp.py) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hissingmicrophone.py) |
