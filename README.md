@@ -22,6 +22,7 @@ This repository shares solutions to Kattis problems in Python.
 | [hello](https://open.kattis.com/problems/hello) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hello.py) |
 | [hipphipp](https://open.kattis.com/problems/hipphipp) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hipphipp.py) |
 | [hissingmicrophone](https://open.kattis.com/problems/hissingmicrophone) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/hissingmicrophone.py) |
+| [kikiboba](https://open.kattis.com/problems/kikiboba) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/kikiboba.py) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/millifaersla.py) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ofugsnuid.py) |
 | [ovissa](https://open.kattis.com/problems/ovissa) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ovissa.py) |
