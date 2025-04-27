@@ -1,6 +1,6 @@
-# Kattis Solutions
+Kattis Problem Organizer & README Updater
 
-This repository shares solutions to Kattis problems in Python.
+This Python script automates the sorting of new Kattis problems into difficulty-based folders and updates the README with problem details and solution links. It also handles git operations, adding, committing, and pushing changes to the repository.
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
