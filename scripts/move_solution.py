@@ -39,7 +39,7 @@ def update_readme():
     print("Updating README.md...")
     with open(README_FILE, 'w') as f:
         f.write("# Kattis Solutions\n\n")
-        f.write("This repository shares solutions to Kattis problems in Python.\n\n")
+        f.write("A simple Python script that moves files, updates the README, and automates Git operations.\n\n")
         f.write("## Problems\n")
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
