@@ -15,6 +15,7 @@ This repository shares solutions to Kattis problems in Python.
 | [digitswap](https://open.kattis.com/problems/digitswap) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/digitswap.py) |
 | [dragafra](https://open.kattis.com/problems/dragafra) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/dragafra.py) |
 | [echoechoecho](https://open.kattis.com/problems/echoechoecho) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/echoechoecho.py) |
+| [fifa](https://open.kattis.com/problems/fifa) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fifa.py) |
 | [findingana](https://open.kattis.com/problems/findingana) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/findingana.py) |
 | [flatbokuveisla](https://open.kattis.com/problems/flatbokuveisla) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/flatbokuveisla.py) |
 | [fyi](https://open.kattis.com/problems/fyi) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/fyi.py) |
