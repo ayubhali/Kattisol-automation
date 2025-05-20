@@ -39,7 +39,23 @@ def update_readme():
     print("Updating README.md...")
     with open(README_FILE, 'w') as f:
         f.write("# Kattis Solutions\n\n")
-        f.write("A simple Python script that moves files, updates the README, and automates Git operations.\n\n")
+        f.write("This repository contains Python solutions to [Kattis](https://open.kattis.com/) problems.\n\n")
+        f.write("It includes an automation script that helps manage and update the repository efficiently.\n\n")
+
+        f.write("## 🔄 Automation Script Overview\n\n")
+        f.write("The `scripts/organizer.py` script performs the following tasks:\n\n")
+        f.write("1. **Organizes solutions by difficulty**  \n")
+        f.write("   - Moves `.py` files from `new_probs/` into structured folders like `1_Easy/`, `2_Medium/`, and `3_Hard/`.  \n\n")
+        f.write("2. **Updates the README**  \n")
+        f.write("   - Scans all folders and generates a markdown table with links to Kattis problems and GitHub solutions.  \n\n")
+        f.write("3. **Pushes changes to GitHub**  \n")
+        f.write("   - Stages all changes, commits them, and pushes to the `main` branch.  \n\n")
+
+        f.write("## 📦 Libraries Used\n\n")
+        f.write("- `shutil` – for moving files between directories  \n")
+        f.write("- `subprocess` – for running Git commands  \n")
+        f.write("- `pathlib` – for managing file paths in a clean, OS-independent way  \n\n")
+
         f.write("## Problems\n")
         f.write("| Problem | Difficulty | Language | Solution |\n")
         f.write("| ------- | ---------- | -------- | -------- |\n")
@@ -47,7 +63,6 @@ def update_readme():
         # Loop each difficulty folder (1_Easy, 2_Medium, 3_Hard, etc.)
         for diff_dir in sorted(PYTHON_DIR.iterdir()):
             if diff_dir.is_dir():
-                # Convert '1_Easy' -> 'Easy'
                 parts = diff_dir.name.split('_', 1)
                 difficulty = parts[1] if len(parts) == 2 else diff_dir.name
 
