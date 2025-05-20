@@ -1,6 +1,27 @@
 # Kattis Solutions
 
-This repository shares solutions to Kattis problems in Python.
+This repository contains Python solutions to [Kattis](https://open.kattis.com/) problems.
+
+It includes an automation script that helps manage and update the repository efficiently.
+
+## 🔄 Automation Script Overview
+
+The `scripts/organizer.py` script performs the following tasks:
+
+1. **Organizes solutions by difficulty**  
+   - Moves `.py` files from `new_probs/` into structured folders like `1_Easy/`, `2_Medium/`, and `3_Hard/`.  
+
+2. **Updates the README**  
+   - Scans all folders and generates a markdown table with links to Kattis problems and GitHub solutions.  
+
+3. **Pushes changes to GitHub**  
+   - Stages all changes, commits them, and pushes to the `main` branch.  
+
+## 📦 Libraries Used
+
+- `shutil` – for moving files between directories  
+- `subprocess` – for running Git commands  
+- `pathlib` – for managing file paths in a clean, OS-independent way  
 
 ## Problems
 | Problem | Difficulty | Language | Solution |
