@@ -48,6 +48,7 @@ The `scripts/organizer.py` script performs the following tasks:
 | [jumbojavelin](https://open.kattis.com/problems/jumbojavelin) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/jumbojavelin.py) |
 | [kikiboba](https://open.kattis.com/problems/kikiboba) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/kikiboba.py) |
 | [millifaersla](https://open.kattis.com/problems/millifaersla) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/millifaersla.py) |
+| [nsum](https://open.kattis.com/problems/nsum) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/nsum.py) |
 | [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ofugsnuid.py) |
 | [ovissa](https://open.kattis.com/problems/ovissa) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/ovissa.py) |
 | [quadrant](https://open.kattis.com/problems/quadrant) | Easy | Python | [Solution](https://github.com/ayubhali/kattisol/blob/main/kattis/python/1_Easy/quadrant.py) |
